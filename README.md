@@ -58,8 +58,8 @@ The application initializes data from the following API endpoints:
    npm install
 
 3. Start the app: 
-```bash
-npm start
+   ```bash
+   npm start
    
    
 
