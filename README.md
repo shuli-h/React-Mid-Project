@@ -53,3 +53,11 @@ The application initializes data from the following API endpoints:
    git clone https://github.com/shuli-h/React-Mid-Project.git
    cd React-Mid-Project
 
+2. Install dependencies:  
+   ```bash
+   npm install
+
+3. Start the app: npm start
+   
+   
+
