@@ -57,7 +57,9 @@ The application initializes data from the following API endpoints:
    ```bash
    npm install
 
-3. Start the app: npm start
+3. Start the app: 
+```bash
+npm start
    
    
 
